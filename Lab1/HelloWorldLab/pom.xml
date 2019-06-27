@@ -8,8 +8,7 @@
   <name>HelloWorldSpringLab</name>
   
   <dependencyManagement>
- <dependencies>
-  
+    <dependencies>
          <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-framework-bom</artifactId>
@@ -17,8 +16,7 @@
             <type>pom</type>
             <scope>import</scope>
         </dependency>
- 
-   </dependencies>
+    </dependencies>
    </dependencyManagement>
  
   
