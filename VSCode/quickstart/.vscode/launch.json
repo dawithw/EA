@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AppBook",
+            "request": "launch",
+            "mainClass": "mum.AppBook",
+            "projectName": "quickstart"
+        },
+        {
+            "type": "java",
+            "name": "Launch",
+            "request": "launch",
+            "mainClass": "mum.App",
+            "projectName": "quickstart"
+        }
+    ]
+}

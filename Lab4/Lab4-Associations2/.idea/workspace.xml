@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb400c3a-661e-4df9-980c-0d5b80e5b3ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab4Association1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Association1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Association1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Association1/src/main/java/application/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Association1/src/main/java/application/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Association1/src/main/java/application/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Association1/src/main/java/application/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Association1/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Association1/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Collections/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Collections/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Collections/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Collections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Collections/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Collections/src/main/java/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Collections/src/main/java/entity/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Collections/src/main/java/entity/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Collections/src/main/java/entity/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Collections/src/main/java/entity/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Collections/src/main/java/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Collections/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4Collections/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab6/Lab6/Lab6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab6/Lab6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab6/Lab6/src/main/java/edu/mum/cs544/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab6/Lab6/src/main/java/edu/mum/cs544/model/Airline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab6/Lab6/src/main/java/edu/mum/cs544/model/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab6/Lab6/src/main/java/edu/mum/cs544/model/Airport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab6/Lab6/src/main/java/edu/mum/cs544/model/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab6/Lab6/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab6/Lab6/src/main/resources/import.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab6/Lab6/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1457482458">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/A_department/AppA_Department.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="14" column="8" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/amp2/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/Publisher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/Reservation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/Office.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/AppA_Department.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/AppB_Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/AppC_Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/AppD_Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/AppF_Office.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/department/AppA_Department.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/department/Department.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/book/AppB_Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/book/Publisher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/student/AppC_Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/student/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/AppE_Reservation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/customer/AppD_Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/reservation/AppE_Reservation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/A_department/Department.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/A_department/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/B_book/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/B_book/Publisher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/C_student/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/C_student/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/D_customer/Reservation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/D_customer/Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/E_reservation/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/E_reservation/Reservation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/E_reservation/AppE_Reservation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/F_office/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/F_office/AppF_Office.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/F_office/Office.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mum/A_department/AppA_Department.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Lab4-Associations2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="318" />
+    <option name="y" value="23" />
+    <option name="width" value="802" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lab4-Associations-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab4-Associations-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab4-Associations-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab4-Associations-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab4-Associations-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab4-Associations-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab4-Associations-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab4-Associations-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab4-Associations-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab4-Associations-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab4-Associations-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab4-Associations-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mum" type="462c0819:PsiDirectoryNode" />
+              <item name="A_department" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561950946951" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.mum.F_office" />
+      <recent name="edu.mum.E_reservation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/edu/mum" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AppF_Office">
+    <configuration name="AppB_Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.mum.B_book.AppB_Book" />
+      <module name="Lab4-Associations2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.mum.B_book.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppC_Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.mum.C_student.AppC_Student" />
+      <module name="Lab4-Associations2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.mum.C_student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppD_Customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.mum.D_customer.AppD_Customer" />
+      <module name="Lab4-Associations2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.mum.D_customer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppE_Reservation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.mum.E_reservation.AppE_Reservation" />
+      <module name="Lab4-Associations2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.mum.E_reservation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppF_Office" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.mum.F_office.AppF_Office" />
+      <module name="Lab4-Associations2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.mum.F_office.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AppB_Book" />
+      <item itemvalue="Application.AppC_Student" />
+      <item itemvalue="Application.AppD_Customer" />
+      <item itemvalue="Application.AppE_Reservation" />
+      <item itemvalue="Application.AppF_Office" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppF_Office" />
+        <item itemvalue="Application.AppE_Reservation" />
+        <item itemvalue="Application.AppD_Customer" />
+        <item itemvalue="Application.AppC_Student" />
+        <item itemvalue="Application.AppB_Book" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb400c3a-661e-4df9-980c-0d5b80e5b3ff" name="Default Changelist" comment="" />
+      <created>1561761083091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561761083091</updated>
+      <workItem from="1561761089221" duration="17269000" />
+      <workItem from="1561950803155" duration="12000" />
+      <workItem from="1561950826004" duration="157000" />
+      <workItem from="1561951088396" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17449000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Persistence" order="0" side_tool="true" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" weight="0.32894737" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.29041487" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info id="Learn" order="8" weight="0.3297568" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5007153" side_tool="true" visible="true" weight="0.2807229" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32901135" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Duplicate detector" order="6" weight="0.32901135" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.32901135" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.3987034" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="9" visible="true" weight="0.08583691" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/A_department/Department.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/A_department/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/B_book/Publisher.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/C_student/AppC_Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/C_student/Course.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/C_student/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/B_book/Book.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/B_book/AppB_Book.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/D_customer/AppD_Customer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/D_customer/Customer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/D_customer/Reservation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/E_reservation/Book.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/E_reservation/Reservation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/E_reservation/AppE_Reservation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/F_office/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/F_office/Office.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/F_office/AppF_Office.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/A_department/AppA_Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="14" column="8" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jquery-3.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Lab4-Associations-2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
