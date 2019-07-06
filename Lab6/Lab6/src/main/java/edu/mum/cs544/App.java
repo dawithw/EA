@@ -4,8 +4,6 @@ import java.util.List;
 
 import edu.mum.cs544.model.Airline;
 import edu.mum.cs544.model.Flight;
-import java.text.DateFormat;
-import java.util.Locale;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
@@ -22,7 +20,7 @@ public class App {
         EntityManager em = emf.createEntityManager();
         em.getTransaction().begin();
 
-        // a) TODO: Flights leaving USA capacity > 500
+        // a) Flights leaving USA capacity > 500
         System.out.println("Question A:");
         List<Flight> flights = em.createQuery("from Flight f where f.airplane.capacity >= 500 and f.origin.country = 'USA'", Flight.class).getResultList();
         System.out.printf("%-9s%-31s%-31s\n", "Flight:", "Departs:",
@@ -42,7 +40,7 @@ public class App {
         em = emf.createEntityManager();
         em.getTransaction().begin();
 
-        // b) TODO: All airlines that use A380 airplanes
+        // b) All airlines that use A380 airplanes
         System.out.println("Question B:");
         List<Airline> airlines = em.createQuery("select distinct a from Airline a join a.flights f where f.airplane.model = 'A380' ", Airline.class).getResultList();
         System.out.println("Airlines that use A380s:");
@@ -57,7 +55,7 @@ public class App {
         em = emf.createEntityManager();
         em.getTransaction().begin();
 
-        // c) TODO: Flights using 747 planes that don't belong to Star Alliance
+        // c) Flights using 747 planes that don't belong to Star Alliance
         System.out.println("Question C:");
         flights = em.createQuery("from Flight f where f.airplane.model = '747' and f.airline.name != 'Star Alliance' ", Flight.class).getResultList();
         System.out.printf("%-9s%-31s%-31s\n", "Flight:", "Departs:",
@@ -78,12 +76,7 @@ public class App {
         em = emf.createEntityManager();
         em.getTransaction().begin();
 
-        DateFormat df = DateFormat.getDateInstance(DateFormat.SHORT,
-                Locale.US);
-        DateFormat tf = DateFormat.getTimeInstance(DateFormat.SHORT,
-                Locale.US);
-
-        // d) TODO: All flights leaving before 12pm on 08/07/2009
+        // d) All flights leaving before 12pm on 08/07/2009
         System.out.println("Question D:");
         TypedQuery<Flight> query = em.createQuery("from Flight f where f.departureTime < '12:00:00' and f.departureDate = '2009-08-07'", Flight.class);
         flights = query.getResultList();

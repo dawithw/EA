@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "edu.mum.cs.App",
+            "projectName": "Lab4-Association-2"
+        }
+    ]
+}
