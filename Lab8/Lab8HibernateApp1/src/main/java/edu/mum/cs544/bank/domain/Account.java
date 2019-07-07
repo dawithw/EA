@@ -16,10 +16,10 @@ import lombok.NoArgsConstructor;
 public class Account {
     @Id
     private long accountnumber;
-    @OneToMany(cascade = CascadeType.PERSIST)
+    @OneToMany(cascade = CascadeType.ALL)
     @JoinColumn(name = "account_id")
     private Collection<AccountEntry> entryList = new ArrayList<AccountEntry>();
-    @OneToOne(cascade = CascadeType.PERSIST)
+    @OneToOne(cascade = CascadeType.ALL)
     private Customer customer;
 
 

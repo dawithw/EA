@@ -44,6 +44,7 @@ public class AccountService implements IAccountService {
         account.deposit(amount);
         accountDAO.updateAccount(account);
         logger.log("deposit with parameters accountNumber= " + accountNumber + " , amount= " + amount);
+        em.getTransaction().commit();
         em.close();
     }
 
