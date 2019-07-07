@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AppBook",
+            "request": "launch",
+            "mainClass": "edu.mum.cs544.AppBook",
+            "projectName": "Lab2-Hibernate-1"
+        }
+    ]
+}

@@ -8,14 +8,31 @@ public class AppBook {
     private static EntityManagerFactory emf;
     public static void main(String[] args) throws Exception {
         initPersistenceContext();
-        createThreeBooks();
-        printTable();
-        //changeAndDeleteBooks();
-        findDelete();
-        getReferenceDelete();
-        printTable();
+        // createThreeBooks();
+        // printTable();
+        // //changeAndDeleteBooks();
+        // findDelete();
+        // getReferenceDelete();
+        // printTable();
+        test();
     }
 
+    public static void test() {
+        EntityManager em = emf.createEntityManager();
+        em.getTransaction().begin();
+
+        Person p = new Person("John Doe");
+        em.persist(p);
+        em.clear();
+        em.persis
+        p.setName("Final Name");
+        Person p2 = em.find(Person.class, p.getId());
+        System.out.println("Found p2 === " + p2.getName());
+        p2.setName("James BondJame Bond");
+        em.merge(p);
+        em.getTransaction().commit();
+        em.close();
+    }
     public static void initPersistenceContext() {
         emf = Persistence.createEntityManagerFactory("cs544");
     }
