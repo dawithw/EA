@@ -1,4 +1,4 @@
-package main.java.edu.mum.cs544.dao;
+package edu.mum.cs544.dao;
 
 import edu.mum.cs544.domain.Student;
 

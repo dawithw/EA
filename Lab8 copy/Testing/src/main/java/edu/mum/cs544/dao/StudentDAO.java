@@ -1,4 +1,4 @@
-package edu.mum.cs544.dao;
+package main.java.edu.mum.cs544.dao;
 
 import javax.persistence.EntityManager;
 

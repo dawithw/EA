@@ -1,13 +1,20 @@
-package edu.mum.cs544;
+package edu.mum.cs544.domain;
 
 import java.util.ArrayList;
 import java.util.Collection;
 
+import javax.persistence.CascadeType;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.OneToMany;
+
+@Entity
 public class Student {
+    @Id
 	private long studentid;
 	private String firstname;
 	private String lastname;
-	
+    @OneToMany(cascade = CascadeType.PERSIST)
 	private Collection<Course> courselist = new ArrayList<Course>();
 
 	public Student() {

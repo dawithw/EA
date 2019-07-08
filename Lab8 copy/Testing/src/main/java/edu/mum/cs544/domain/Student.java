@@ -1,4 +1,4 @@
-package edu.mum.cs544.domain;
+package main.java.edu.mum.cs544.domain;
 
 import java.util.ArrayList;
 import java.util.Collection;

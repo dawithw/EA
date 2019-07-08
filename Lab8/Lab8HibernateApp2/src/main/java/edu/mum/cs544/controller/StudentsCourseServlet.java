@@ -1,4 +1,4 @@
-package edu.mum.cs544;
+package edu.mum.cs544.controller;
 
 import java.io.IOException;
 
@@ -7,6 +7,10 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+
+import edu.mum.cs544.domain.Student;
+import edu.mum.cs544.service.IStudentService;
+import edu.mum.cs544.service.StudentService;
 
 @WebServlet(name = "StudentsCourseServlet", urlPatterns = "/StudentsCourseServlet")
 public class StudentsCourseServlet extends HttpServlet {
@@ -22,11 +26,12 @@ public class StudentsCourseServlet extends HttpServlet {
 		
 		if (studentIdStr != null && studentIdStr.matches("\\d+")) {
 			studentid = Long.parseLong(studentIdStr);
-			StudentService studentService = new StudentService();
+			IStudentService studentService = new StudentService();
 			student = studentService.getStudent(studentid);
 		}
 		
-		request.setAttribute("student", student);
+        request.setAttribute("student", student);
+        request.setAttribute("studentid", studentid);
 		request.getRequestDispatcher("student.jsp").forward(request, response);		
 
 	}

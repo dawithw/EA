@@ -1,4 +1,4 @@
-package edu.mum.cs544.domain;
+package main.java.edu.mum.cs544.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

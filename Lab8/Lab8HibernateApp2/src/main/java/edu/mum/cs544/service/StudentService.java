@@ -1,4 +1,4 @@
-package main.java.edu.mum.cs544.service;
+package edu.mum.cs544.service;
 
 import javax.persistence.EntityManager;
 
@@ -19,6 +19,7 @@ public class StudentService implements IStudentService {
         EntityManager em = EntityManagerHelper.getCurrent();
         em.getTransaction().begin();
         Student student = studentdao.load(studentid);
+        System.out.println("getStudentgetStudentgetStudentgetStudentgetStudentgetStudent");
         em.getTransaction().commit();
         em.close();
         return student;

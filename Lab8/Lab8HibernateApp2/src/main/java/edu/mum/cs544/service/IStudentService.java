@@ -1,4 +1,4 @@
-package main.java.edu.mum.cs544.service;
+package edu.mum.cs544.service;
 
 import edu.mum.cs544.domain.Student;
 
