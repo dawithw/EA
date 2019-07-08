@@ -1,0 +1,23 @@
+package edu.mum.cs544.dao;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+public class EntityManagerHelper{
+
+    private static final EntityManagerFactory emf;
+    private static final ThreadLocal<EntityManager> threadLocal;
+    
+    static {
+        emf = Persistence.createEntityManagerFactory("cs544");
+        threadLocal = new ThreadLocal<>();
+    }
+
+    public static EntityManager getCurrent() {
+        EntityManager em = threadLocal.get();
+        if (em == null || !em.isOpen())
+            em = emf.createEntityManager();
+        return em;
+    }
+}
