@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "edu.mum.cs544.bank.App",
+            "projectName": "W1D3-Bank_Application"
+        }
+    ]
+}

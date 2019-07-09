@@ -3,27 +3,24 @@ package edu.mum.cs544.bank.service;
 import java.util.Collection;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
-import edu.mum.cs544.bank.dao.AccountDAO;
-import edu.mum.cs544.bank.dao.IAccountDAO;
-import edu.mum.cs544.bank.domain.Account;
-import edu.mum.cs544.bank.domain.Customer;
-import edu.mum.cs544.bank.jms.IJMSSender;
-import edu.mum.cs544.bank.jms.JMSSender;
-import edu.mum.cs544.bank.logging.ILogger;
-import edu.mum.cs544.bank.logging.Logger;
+import edu.mum.cs544.bank.dao.*;
+import edu.mum.cs544.bank.domain.*;
+import edu.mum.cs544.bank.jms.*;
 
-
+@Component
 public class AccountService implements IAccountService {
-    @Autowired
+    
+    @Autowired 
     private IAccountDAO accountDAO;
-    @Autowired
+    
+    @Autowired 
     private ICurrencyConverter currencyConverter;
-    @Autowired
+    
+    @Autowired 
     private IJMSSender jmsSender;
-    @Autowired
-	private ILogger logger;
-	
+
 	public AccountService(){}
 
 	public Account createAccount(long accountNumber, String customerName) {
@@ -31,7 +28,6 @@ public class AccountService implements IAccountService {
 		Customer customer = new Customer(customerName);
 		account.setCustomer(customer);
 		accountDAO.saveAccount(account);
-		logger.log("createAccount with parameters accountNumber= "+accountNumber+" , customerName= "+customerName);
 		return account;
 	}
 
@@ -39,7 +35,6 @@ public class AccountService implements IAccountService {
 		Account account = accountDAO.loadAccount(accountNumber);
 		account.deposit(amount);
 		accountDAO.updateAccount(account);
-		logger.log("deposit with parameters accountNumber= "+accountNumber+" , amount= "+amount);
 		if (amount > 10000){
 			jmsSender.sendJMSMessage("Deposit of $ "+amount+" to account with accountNumber= "+accountNumber);
 		}
@@ -58,7 +53,6 @@ public class AccountService implements IAccountService {
 		Account account = accountDAO.loadAccount(accountNumber);
 		account.withdraw(amount);
 		accountDAO.updateAccount(account);
-		logger.log("withdraw with parameters accountNumber= "+accountNumber+" , amount= "+amount);
 	}
 
 	public void depositEuros(long accountNumber, double amount) {
@@ -66,7 +60,6 @@ public class AccountService implements IAccountService {
 		double amountDollars = currencyConverter.euroToDollars(amount);
 		account.deposit(amountDollars);
 		accountDAO.updateAccount(account);
-		logger.log("depositEuros with parameters accountNumber= "+accountNumber+" , amount= "+amount);
 		if (amountDollars > 10000){
 			jmsSender.sendJMSMessage("Deposit of $ "+amount+" to account with accountNumber= "+accountNumber);
 		}
@@ -77,7 +70,6 @@ public class AccountService implements IAccountService {
 		double amountDollars = currencyConverter.euroToDollars(amount);
 		account.withdraw(amountDollars);
 		accountDAO.updateAccount(account);
-		logger.log("withdrawEuros with parameters accountNumber= "+accountNumber+" , amount= "+amount);
 	}
 
 	public void transferFunds(long fromAccountNumber, long toAccountNumber, double amount, String description) {
@@ -86,7 +78,6 @@ public class AccountService implements IAccountService {
 		fromAccount.transferFunds(toAccount, amount, description);
 		accountDAO.updateAccount(fromAccount);
 		accountDAO.updateAccount(toAccount);
-		logger.log("transferFunds with parameters fromAccountNumber= "+fromAccountNumber+" , toAccountNumber= "+toAccountNumber+" , amount= "+amount+" , description= "+description);
 		if (amount > 10000){
 			jmsSender.sendJMSMessage("TransferFunds of $ "+amount+" from account with accountNumber= "+fromAccount+" to account with accountNumber= "+toAccount);
 		}
