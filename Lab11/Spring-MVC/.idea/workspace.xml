@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7733b1ce-7056-4e80-8fc2-4dbbd51da79b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/EA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/EA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworld/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworld/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworld/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworld/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworld/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworld/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworld/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworld/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworld/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworld/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworld/target/classes/HelloWorld.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworld/target/classes/HelloWorld.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringaj/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringaj/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringaj/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringaj/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringaj/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringaj/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringaj/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringaj/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringaj/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringaj/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringaj/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringaj/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringax/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringax/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringax/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringax/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringax/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringax/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringax/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringax/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringax/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringax/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringax/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringax/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringax/target/classes/spring/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringax/target/classes/spring/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringx/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringx/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringx/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringx/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringx/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringx/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringx/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringx/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringx/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringx/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringx/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringx/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringx/target/classes/spring/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/Lesson01/helloworldspringx/target/classes/spring/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/HelloWorldLab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/HelloWorldLab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/src/main/java/edu/mum/component/impl/FileMessageDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/src/main/java/edu/mum/component/impl/FileMessageDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/target/classes/HelloWorld.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/target/classes/HelloWorld.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/HelloWorldLab/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/CustomerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/CustomerDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/EmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/EmailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/ICustomerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/ICustomerDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/ICustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/ICustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/IEmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/IEmailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/LogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/java/edu/mum/cs544/LogAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/resources/springconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/main/resources/springconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/test/java/cs544/exercise13_1/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/src/test/java/cs544/exercise13_1/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/target/classes/springconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-1/target/classes/springconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/aop/DAOAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/aop/DAOAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/aop/JMSLogAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/aop/JMSLogAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/aop/StopWatchAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/aop/StopWatchAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/dao/AccountDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/dao/AccountDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/dao/IAccountDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/dao/IAccountDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/domain/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/domain/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/domain/AccountEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/domain/AccountEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/domain/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/domain/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/jms/IJMSSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/jms/IJMSSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/jms/JMSSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/jms/JMSSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/logging/ILogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/logging/ILogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/logging/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/logging/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/service/IAccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/java/edu/mum/cs544/bank/service/IAccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-AOP-2/target/classes/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/dao/AccountDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/dao/AccountDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/dao/IAccountDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/dao/IAccountDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/domain/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/domain/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/domain/AccountEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/domain/AccountEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/domain/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/domain/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/jms/IJMSSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/jms/IJMSSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/jms/JMSSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/jms/JMSSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/logging/ILogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/logging/ILogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/logging/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/logging/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/service/IAccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/java/edu/mum/cs544/bank/service/IAccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/Lab10-Bank_Application/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.idea/dataSources/ef8d8cc3-d187-4024-a3e6-c6fbe4cd1735.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.idea/dataSources/ef8d8cc3-d187-4024-a3e6-c6fbe4cd1735.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/Lab2Hibernate1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/Lab2Hibernate1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/src/main/java/edu/mum/cs544/AppBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/src/main/java/edu/mum/cs544/AppBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/src/main/java/edu/mum/cs544/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/src/main/java/edu/mum/cs544/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/src/main/java/edu/mum/cs544/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/src/main/java/edu/mum/cs544/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate1/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.idea/dataSources/2033aae5-c93e-46d6-a18a-2fc839a44d95.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.idea/dataSources/2033aae5-c93e-46d6-a18a-2fc839a44d95.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/Lab2Hibernate2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/Lab2Hibernate2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/src/main/java/edu/mum/cs544/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/src/main/java/edu/mum/cs544/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/src/main/java/edu/mum/cs544/Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/src/main/java/edu/mum/cs544/Courses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/src/main/java/edu/mum/cs544/Grades.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/src/main/java/edu/mum/cs544/Grades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/src/main/java/edu/mum/cs544/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/src/main/java/edu/mum/cs544/Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/src/main/java/edu/mum/cs544/Teachers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/src/main/java/edu/mum/cs544/Teachers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/src/main/resources/entityGenConfig.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/src/main/resources/entityGenConfig.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/target/classes/entityGenConfig.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/target/classes/entityGenConfig.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/target/classes/simpsons.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Lab2Hibernate2/target/classes/simpsons.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/LAB 3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/LAB 3.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/target/classes/context/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/target/classes/context/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/Lab3BasicOperations/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/src/main/java/edu/mum/cs/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/src/main/java/edu/mum/cs/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/src/main/java/edu/mum/cs/domain/a/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/src/main/java/edu/mum/cs/domain/a/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/src/main/java/edu/mum/cs/domain/a/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/src/main/java/edu/mum/cs/domain/a/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/src/test/java/edu/mum/cs/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/src/test/java/edu/mum/cs/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/src/test/java/edu/mum/cs/DepartmentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/src/test/java/edu/mum/cs/DepartmentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/src/test/java/edu/mum/cs/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/src/test/java/edu/mum/cs/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Association-2/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.idea/Lab4-Associations2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.idea/Lab4-Associations2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/Lab4-Associations-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/Lab4-Associations-2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4-Associations2(Gebre)/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.idea/dataSources/da5271c0-aca7-4c83-805b-405c62225229.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.idea/dataSources/da5271c0-aca7-4c83-805b-405c62225229.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/Lab4Association1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/Lab4Association1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/src/main/java/application/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/src/main/java/application/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/src/main/java/application/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/src/main/java/application/Owner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Association1/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Association1/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.idea/dataSources/c106f7c3-68cf-4ce5-b0f3-062442a5163a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.idea/dataSources/c106f7c3-68cf-4ce5-b0f3-062442a5163a.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/Lab4Collections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/Lab4Collections.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/src/main/java/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/src/main/java/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/src/main/java/entity/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/src/main/java/entity/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/src/main/java/entity/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/src/main/java/entity/Laptop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/src/main/java/entity/Passenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/src/main/java/entity/Passenger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/src/main/java/entity/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/src/main/java/entity/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/src/main/java/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/src/main/java/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4Collections/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Lab4Collections/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/.idea/dataSources/ad0b3f32-bf96-4e83-942d-d64bb9060aa0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/.idea/dataSources/ad0b3f32-bf96-4e83-942d-d64bb9060aa0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/Lab5-Inheritance-a.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/Lab5-Inheritance-a.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/src/main/java/edu/mum/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/src/main/java/edu/mum/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/src/main/java/edu/mum/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/src/main/java/edu/mum/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/src/main/java/edu/mum/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/src/main/java/edu/mum/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/src/main/java/edu/mum/OrderLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/src/main/java/edu/mum/OrderLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/src/main/java/edu/mum/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-a/src/main/java/edu/mum/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.idea/dataSources/ad0b3f32-bf96-4e83-942d-d64bb9060aa0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.idea/dataSources/ad0b3f32-bf96-4e83-942d-d64bb9060aa0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/Lab5-Inheritance-a.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/Lab5-Inheritance-a.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/Lab5-Inheritance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/Lab5-Inheritance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/src/main/java/edu/mum/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/src/main/java/edu/mum/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/src/main/java/edu/mum/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/src/main/java/edu/mum/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/src/main/java/edu/mum/CD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/src/main/java/edu/mum/CD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/src/main/java/edu/mum/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/src/main/java/edu/mum/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/src/main/java/edu/mum/DVD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/src/main/java/edu/mum/DVD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/src/main/java/edu/mum/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/src/main/java/edu/mum/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/src/main/java/edu/mum/OrderLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/src/main/java/edu/mum/OrderLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/src/main/java/edu/mum/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/src/main/java/edu/mum/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5-Inheritance-b/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5Complex/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5Complex/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5Complex/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5Complex/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5Complex/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5Complex/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5Complex/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5Complex/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5Complex/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Lab5Complex/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Lab5Complex/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/dataSources/316b9242-cb2f-42c6-a5a6-fee10760446d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/dataSources/316b9242-cb2f-42c6-a5a6-fee10760446d.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/Lab6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/Lab6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/target/classes/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/target/classes/import.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab7/Lab7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab7/Lab7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/src/main/java/edu/mum/cs544/StringClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/src/main/java/edu/mum/cs544/StringClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab7/Lab7Optimization/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/src/main/java/edu/mum/cs544/bank/dao/EntityManagerHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/src/main/java/edu/mum/cs544/bank/dao/EntityManagerHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/src/main/java/edu/mum/cs544/bank/dao/JPAAccountDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/src/main/java/edu/mum/cs544/bank/dao/JPAAccountDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp1/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/src/main/java/edu/mum/cs544/dao/EntityManagerHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/src/main/java/edu/mum/cs544/dao/EntityManagerHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/src/main/java/edu/mum/cs544/service/IStudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/src/main/java/edu/mum/cs544/service/IStudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/src/main/resources/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/src/main/resources/import.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/classes/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/classes/import.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/entitymanagerinview/WEB-INF/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/entitymanagerinview/WEB-INF/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/entitymanagerinview/WEB-INF/classes/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/entitymanagerinview/WEB-INF/classes/import.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/entitymanagerinview/WEB-INF/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/entitymanagerinview/WEB-INF/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Lab8HibernateApp2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/Lesson 1 EA Introduction.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/Lesson 1 Spring.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/Lesson 2a ORM Intro.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/Lesson 2b Basic Mapping.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/Lesson 3 Persistence API.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/Lesson 4 Associations.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Playground/Project/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Playground/Project/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Playground/Project/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Playground/Project/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Playground/Project/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Playground/Project/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Playground/Project/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Playground/Project/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Playground/Project/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Playground/Project/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Playground/Project/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Playground/Project/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Playground/Project/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Playground/Project/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Playground/Project/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Playground/Project/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Playground/Project/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Playground/Project/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Playground/Project/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Playground/Project/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Playground/Project/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Playground/Project/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Playground/Project/src/main/java/domain/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Playground/Project/src/main/java/domain/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Playground/Project/src/main/java/util/Populate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Playground/Project/src/main/java/util/Populate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Playground/Project/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Playground/Project/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Playground/Project/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Playground/Project/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Playground/Project/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Playground/Project/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/quickstart/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/quickstart/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/quickstart/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/quickstart/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/quickstart/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/quickstart/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/quickstart/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/quickstart/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/quickstart/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/quickstart/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/quickstart/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/quickstart/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/quickstart/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/quickstart/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/quickstart/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/quickstart/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/quickstart/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/quickstart/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/quickstart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/quickstart/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/quickstart/src/main/java/mum/AppBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/quickstart/src/main/java/mum/AppBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/quickstart/src/main/java/mum/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/quickstart/src/main/java/mum/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/quickstart/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/quickstart/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/quickstart/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/quickstart/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/quickstart/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/quickstart/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/quickstart/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/quickstart/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/spring/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/spring/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/spring/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/spring/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/spring/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/spring/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/spring/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/spring/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/spring/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/spring/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/spring/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/spring/src/main/java/edu/mum/cs/spring/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/spring/src/main/java/edu/mum/cs/spring/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/spring/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/spring/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/spring/src/test/java/edu/mum/cs/spring/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/spring/src/test/java/edu/mum/cs/spring/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/tdd/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/tdd/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/tdd/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/tdd/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/tdd/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/tdd/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/tdd/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/tdd/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/tdd/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/tdd/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/tdd/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/tdd/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/tdd/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/tdd/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/tdd/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/tdd/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VSCode/tdd/src/test/java/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VSCode/tdd/src/test/java/AppTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/../W3D1-MVC/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="269778506">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../W3D1-MVC/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="805" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Spring-MVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-MVC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-MVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-MVC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-MVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-MVC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-MVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-MVC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-MVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-MVC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs544" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-MVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-MVC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562801962194" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7733b1ce-7056-4e80-8fc2-4dbbd51da79b" name="Default Changelist" comment="" />
+      <created>1562801669613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562801669613</updated>
+      <workItem from="1562801671835" duration="145000" />
+      <workItem from="1562801820510" duration="275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="420000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="805" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="11" visible="true" weight="0.32959327" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

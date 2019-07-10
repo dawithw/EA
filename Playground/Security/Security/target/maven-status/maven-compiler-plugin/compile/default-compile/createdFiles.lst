@@ -1,0 +1,3 @@
+application/config/MyDispatcherServletInitConfig.class
+application/config/MyMVCConfig.class
+application/controller/HomeController.class
