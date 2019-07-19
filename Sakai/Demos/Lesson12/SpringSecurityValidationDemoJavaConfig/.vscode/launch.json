@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PasswordEncoderGenerator",
+            "request": "launch",
+            "mainClass": "cs544.utils.PasswordEncoderGenerator",
+            "projectName": "SpringSecurityValidationDemoJavaConfig"
+        }
+    ]
+}
